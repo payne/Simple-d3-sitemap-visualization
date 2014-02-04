@@ -1,0 +1,35 @@
+var sitemap = {
+    "home": {
+        "title": "Inner Activist Homepage",
+        "navPages": [
+            {   "title": "Our Model",
+                "subpages": [
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" }
+                ] },
+            {   "title": "Our Courses",
+                "subpages": [
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" }
+                ] },
+            {   "title": "About Us",
+                "subpages": [
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" }
+                ] },
+            {   "title": "Dive Deep",
+                "subpages": [
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" },
+                    {   "title": "page-title" }
+                ] }
+        ]
+    }
+}
